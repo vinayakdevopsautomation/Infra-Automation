@@ -18,6 +18,7 @@
     <a href="mailto:vinayakbachhav91@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <img src="https://img.shields.io/badge/Automation_Status-99.99%25_Uptime-success?style=for-the-badge&logo=prometheus&logoColor=white%22%20alt=%22Automation%20Status"
   </p>
 
 </div>
