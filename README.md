@@ -18,9 +18,7 @@
     <a href="mailto:vinayakbachhav91@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/DevOps-Automation_&_IaC-0078D4?style=for-the-badge&logo=github-actions&logoColor=white" alt="DevOps Automation" />
-    <img src="https://img.shields.io/badge/Cloud_Architect-AWS_%7C_Azure-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900" alt="Multi-Cloud" />
-    <img src="https://img.shields.io/badge/Infrastructure-Terraform_%7C_K8s-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Infrastructure as Code" />
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0284C7&height=180&section=header&text=DevOps%20%26%20Cloud%20Automation&fontSize=36&fontColor=38BDF8&fontAlignY=38&desc=AWS%20%7C%20Azure%20%7C%20Terraform%20%7C%20Kubernetes%20%7C%20CI%2FCD&descAlignY=60&descSize=16" width="100%" alt="DevOps Banner" />
   </p>
 
 </div>
