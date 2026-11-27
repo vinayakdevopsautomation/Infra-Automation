@@ -18,7 +18,9 @@
     <a href="mailto:vinayakbachhav91@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0284C7&height=180&section=header&text=DevOps%20%26%20Cloud%20Automation&fontSize=36&fontColor=38BDF8&fontAlignY=38&desc=AWS%20%7C%20Azure%20%7C%20Terraform%20%7C%20Kubernetes%20%7C%20CI%2FCD&descAlignY=60&descSize=16" width="100%" alt="DevOps Banner" />
+   
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:0284C7&height=180&section=header&text=DevOps%20%26%20Cloud%20Automation&fontSize=36&fontColor=38BDF8&fontAlignY=38&desc=AWS%20%7C%20Azure%20%7C%20Terraform%20%7C%20Kubernetes%20%7C%20CI%2FCD&descAlignY=60&descSize=16" width="100%" alt="DevOps Banner" />
+    
   </p>
 
 </div>
