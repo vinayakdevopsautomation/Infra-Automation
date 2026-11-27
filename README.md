@@ -3,7 +3,7 @@
 
   <!-- Animated Terminal Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Vinayak+Bachhav+%F0%9F%91%8B;Senior+DevOps+%26+Cloud+Automation+Engineer;AWS+%3C+Microsoft+Azure+%3C+Terraform+%3C+Kubernetes+%3C+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Vinayak+Bachhav+%F0%9F%91%8B;Senior+DevOps+%26+Cloud+Automation+Engineer;AWS+%7C+Azure+%7C+Terraform+%7C+Kubernetes+%7C+Linux" alt="Typing SVG" />
   </a>
 
   <p align="center">
