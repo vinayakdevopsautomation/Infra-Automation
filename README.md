@@ -18,7 +18,9 @@
     <a href="mailto:vinayakbachhav91@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/DevOps-Automation_&_IaC-0078D4?style=for-the-badge&logo=github-actions&logoColor=white" alt="DevOps Automation" />
+    <img src="https://img.shields.io/badge/Cloud_Architect-AWS_%7C_Azure-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900" alt="Multi-Cloud" />
+    <img src="https://img.shields.io/badge/Infrastructure-Terraform_%7C_K8s-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Infrastructure as Code" />
   </p>
 
 </div>
